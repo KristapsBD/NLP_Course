@@ -1,0 +1,87 @@
+Multichar_Symbols +N +Sg +Pl +Nom +Gen +Dat +Acc +Loc
+
+LEXICON Root
+Noun ;
+
+LEXICON Noun
+
+dzīvniek N1dekl;
+sviests N1dekl;
+zēns N1dekl;
+
+tunel N2dekl;
+vērs N2dekl;
+knāb N2dekl;
+bried N2dekl;
+divdab N2dekl;
+
+laim N5dekl;
+up N5dekl;
+meiten N5dekl;
+zvaigzn N5dekl;
+mut N5dekl;
+
+ac N6dekl;
+nakt N6dekl;
+telt N6dekl;
+ziv N6dekl;
+
+LEXICON N1dekl
++N+Sg+Nom:^s  #;
++N+Sg+Gen:^a  #;
++N+Sg+Dat:^am #;
++N+Sg+Acc:^u #;
++N+Sg+Loc:^ā #;
++N+Pl+Nom:^i  #;
++N+Pl+Gen:^u  #;
++N+Pl+Dat:^iem #;
++N+Pl+Acc:^us #;
++N+Pl+Loc:^os #;
+
+LEXICON N2dekl
++N+Sg+Nom:^is  #;
++N+Sg+Gen:^Ma  #;
++N+Sg+Dat:^im #;
++N+Sg+Acc:^i #;
++N+Sg+Loc:^ī #;
++N+Pl+Nom:^Mi  #;
++N+Pl+Gen:^Mu  #;
++N+Pl+Dat:^Miem #;
++N+Pl+Acc:^Mus #;
++N+Pl+Loc:^Mos #;
+
+LEXICON N3dekl
++N+Sg+Nom:^us  #;
++N+Sg+Gen:^ua  #;
++N+Sg+Dat:^am #;
++N+Sg+Acc:^u #;
++N+Sg+Loc:^ū #;
++N+Pl+Nom:^i  #;
++N+Pl+Gen:^u  #;
++N+Pl+Dat:^iem #;
++N+Pl+Acc:^us #;
++N+Pl+Loc:^os #;
+
+LEXICON N5dekl
++N+Sg+Nom:^e  #;
++N+Sg+Gen:^es #;
++N+Sg+Dat:^ei #;
++N+Sg+Acc:^es #;
++N+Sg+Loc:^ēs #;
++N+Pl+Nom:^es  #;
++N+Pl+Gen:^Mu  #;
++N+Pl+Dat:^ēm #;
++N+Pl+Acc:^es #;
++N+Pl+Loc:^ēs #;
+
+LEXICON N6dekl
++N+Sg+Nom:^s  #;
++N+Sg+Gen:^s #;
++N+Sg+Dat:^ij #;
++N+Sg+Acc:^i #;
++N+Sg+Loc:^ī #;
++N+Pl+Nom:^is  #;
++N+Pl+Gen:^Mu  #;
++N+Pl+Dat:^īm #;
++N+Pl+Acc:^is #;
++N+Pl+Loc:^īs #;
