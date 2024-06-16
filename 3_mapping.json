@@ -1,0 +1,5 @@
+{
+"positive": ['admiration', 'amusement', 'approval', 'caring', 'excitement', 'gratitude', 'joy', 'love', 'optimism', 'pride', 'relief'],
+"negative": ['anger', 'annoyance', 'disappointment', 'disapproval', 'disgust', 'embarrassment', 'fear', 'grief', 'nervousness', 'remorse', 'sadness'],
+"neutral": ['confusion', 'curiosity', 'desire', 'realization', 'surprise' 'neutral']
+}
