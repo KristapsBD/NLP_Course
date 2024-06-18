@@ -10,4 +10,4 @@ This project involves sentiment analysis using the GoEmotions dataset, which is 
 - K-Nearest Neighbors
 
 ## Dataset
-The dataset used in this project is the GoEmotions dataset, introduced by Demszky et al. (2020).
+The dataset used in this project is the [GoEmotions dataset](https://github.com/google-research/google-research/tree/master/goemotions), introduced by Demszky et al. (2020).
