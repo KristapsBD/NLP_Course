@@ -6,6 +6,7 @@ This project involves sentiment analysis using the GoEmotions dataset, which is 
 
 ## Instructions
 To change emotion classification group (3 or 7 emotions) please see cell #11 and modify accordingly. Then run all cells.
+
 For simple models:
 1. Run all cells
 2. Cancel model training cells
