@@ -10,6 +10,7 @@ For simple models:
 1. Run all cells
 2. Cancel model training cells
 3. Run inference
+
 For BERT:
 1. Run last 2 cells
 
